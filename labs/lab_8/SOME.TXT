@@ -1,0 +1,25 @@
+ctrl + entered key to grab.                                                     
+ctrl + 'Q' quit resident program.                                               
+                                                                                
+D:\LAB_8>lknlvevte                                                              
+Illegal command: lknlvevte.                                                     
+                                                                                
+D:\LAB_8>rverve                                                                 
+Illegal command: rverve.                                                        
+                                                                                
+D:\LAB_8>rverv                                                                  
+Illegal command: rverv.                                                         
+                                                                                
+D:\LAB_8>everv                                                                  
+Illegal command: everv.                                                         
+                                                                                
+D:\LAB_8>ejknjkcercer                                                           
+Illegal command: ejknjkcercer.                                                  
+                                                                                
+D:\LAB_8>ece                                                                    
+Illegal command: ece.                                                           
+                                                                                
+D:\LAB_8>cewdc                                                                  
+Illegal command: cewdc.                                                         
+                                                                                
+D:\LAB_8>                                                                       
