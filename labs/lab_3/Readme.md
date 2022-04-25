@@ -11,6 +11,7 @@
 - Read from 4-th to 6-th chapter of  [SWAAAN][Swan] p (51-166)
 - Chapter 2 of [Zubkov][Zubkov] book p (24-59)
 - Some topics in [Kalashnikov][Kalashnikovs]
+- watch [video_1](https://youtu.be/BIYiuy8WWiU) & [video_2]()
 - And of course <b>GOOGLE</b> :3
 > I had also include shifts in my operators(logic/arithmetic)
 

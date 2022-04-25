@@ -13,6 +13,7 @@ U should go to <b> Borland C </b>
 - Tom [SWAAN][Swan] chapter 13, p (358-392)
 - [Topic](https://rsdn.org/article/alg/fastpow.xml) about our lab
 - [About](https://prog-cpp.ru/asm-coprocessor-command/) math soprocessor
+- watch this [video](https://youtu.be/U0U8Ddx4TgE)
 - And of course <b>GOOGLE</b> :3
 > you can use bcc command, but libs and includes in my way can't find
 
