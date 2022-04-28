@@ -1,6 +1,6 @@
 # INFO
 ## Task
-Ввести массив чисел с плавающей точкой на 10 элементов. Для каждого элемента массива вычислить $X_{i}$ = $X_{i}^N$(где N = 1, 2, ...).(Вариант 5)
+Ввести массив чисел с плавающей точкой на 10 элементов. Для каждого элемента массива вычислить ![equation] (где N = 1, 2, ...).(Вариант 5)
 ## How to execute ?
 I wrote for DOS instead of Windows ( I don't like Visual Studio) {But inline blocks sucks in DOS} </br>
 U should go to <b> Borland C </b>
@@ -21,3 +21,4 @@ U should go to <b> Borland C </b>
 [Zubkov]:https://disk.yandex.by/i/OgZUXl7B6mj2hA
 [Swan]: https://disk.yandex.by/i/xpeoXuSMzZFlOg
 [Kalashnikovs]: https://disk.yandex.by/i/x8En2MnxEce8gA
+[equation]: https://latex.codecogs.com/png.image?\dpi{110}X_{i}&space;=&space;X_{i}^N{\color{Red}&space;}
