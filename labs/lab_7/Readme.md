@@ -6,7 +6,7 @@
 ##  Useful material
 - All topics on this [chapter][Frolov]
 - Chapter 4.{9-11} of [Zubkov][Zubkov] book p (193-208)
-- Some topics in [Kalashnikov][Kalashnikovs] p (278-294) 
+- Some topics in [Kalashnikov][Kalashnikovs] p (280-294) 
 - And of course <b>GOOGLE</b> :3
 > I use lab_5 which use commad line, you can choose, another lab, but with com line
 
