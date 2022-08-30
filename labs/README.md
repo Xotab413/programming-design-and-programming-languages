@@ -12,7 +12,7 @@ First you should choose your way(asm) (NASM,MASM,YASM and e.t.c),you'll work wit
 
 I recommend this asm, because it's easy to install/use/learn, and of course big community
 
-<b>Other asm, can be googled, if there is needs</b>
+
 
 ### TASM
 
@@ -24,6 +24,8 @@ Books to understand/learn it:
 - [Kalashnikov][Kalashnikov], you'll learn how to make resident virus on ASM, (of course with walkthroughs)
 
 You can hate Tom SWAN book, and learn TASM in other books/sources, just LEARN it
+
+<b>Other asm, can be googled, if there is needs</b>
 
 
 
@@ -53,7 +55,7 @@ First watch Alek OS [video][youtube], it'll help you understand first lab (Hello
 
 If u like pain and, mb not a newbie in this theme read [Art of Intel x86][Art_of_assembly_language]
 
-### ASS we CAN
+## ASS we CAN
 ### If I passed it, you will also pass !!! :3
 
 
