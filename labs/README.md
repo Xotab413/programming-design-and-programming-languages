@@ -55,6 +55,14 @@ First watch Alek OS [video][youtube], it'll help you understand first lab (Hello
 
 If u like pain and, mb not a newbie in this theme read [Art of Intel x86][Art_of_assembly_language]
 
+You can find all labs in [github][git], but if you want understand asm read books & do some labs without git
+> If labs don't work, you can find bugs/mistakes (I redo >4 labs in git)
+
+Variants of labs locate [here][here]
+
+In my year, we have labworker called VAN, and in learning path we make document, in which descibe all questions on each lab, [ENJOY][doc] !!!
+
+
 ## ASS we CAN
 ### If I passed it, you will also pass !!! :3
 
@@ -81,3 +89,6 @@ If u like pain and, mb not a newbie in this theme read [Art of Intel x86][Art_of
 <!--- BASE links-->
 [youtube]: https://youtu.be/PHyIP9g9BQw
 [Art_of_assembly_language]: https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf
+[git]: https://github.com/Grigoriy0/asm-labs
+[here]: ../%5B%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%5D%20Kalabuhov_Konstruir.pdf
+[doc]: https://docs.google.com/document/d/1iAy8eAbM5DI0oxUQONPUJ-iEHqhuTx6xxUC5wsr0IXc/edit?usp=sharing
